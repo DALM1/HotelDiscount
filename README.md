@@ -1,2 +1,3 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
-# ex
+# Hotel Booking
+
+Bienvenue dans le système de réservation d'hôtels ! Ce projet est une application web permettant aux utilisateurs de rechercher et de réserver des chambres d'hôtel à des prix réduits.
